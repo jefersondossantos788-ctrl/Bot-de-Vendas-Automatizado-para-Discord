@@ -1,0 +1,35 @@
+{
+  "name": "discord-bot-pix-integration",
+  "version": "1.0.0",
+  "description": "Discord Bot com integração PIX/EFI e criptomoedas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "pix",
+    "efi",
+    "cryptocurrency",
+    "payments"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.3.2",
+    "qrcode": "^1.5.3",
+    "sdk-node-apis-efi": "^1.2.21",
+    "sdk-typescript-apis-efi": "^1.2.4",
+    "sharp": "^0.34.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

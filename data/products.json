@@ -1,0 +1,104 @@
+{
+  "product_1756559743567": {
+    "titulo": "root-aim",
+    "descricao": "```[🎯] AIMBOT\n ﾠ[-] Smooth Humanized\n ﾠ[-] FOV X & Y \n ﾠ[-] Color Selector\n ﾠ[-] Triggerbot\n ﾠ[-] Aim-Assist\n ﾠ[-] Recoil Control System``````[⚙] CONFIG\n ﾠ[-] Stream Proof\n ﾠ[-] Performance Mode\n ﾠ[-] Custom Resolution\n ﾠ[-] Save Configs ```",
+    "subprodutos": [
+      {
+        "nome": "Diário",
+        "preco": 15
+      },
+      {
+        "nome": "Semanal",
+        "preco": 35
+      },
+      {
+        "nome": "Mensal",
+        "preco": 60
+      }
+    ],
+    "created_at": "2025-08-30T13:15:43.567Z",
+    "sales_count": 1,
+    "total_revenue": 1,
+    "site_label": "Nosso Site!"
+  },
+  "product_1756568692514": {
+    "titulo": "esp aim",
+    "descricao": "```[🎯] AIMBOT\n  [-] Fov\n  [-] Smooth\n  [-] Humanized Smooth\n  [-] Triggerbot\n  [-] Recoil Control System``````[👁‍🗨] VISUALS\n  [-] Box\n  [-] Skeleton\n  [-] Head\n  [-] HealthBar\n  [-] Lines\n  [-] Distance\n  [-] Names\n  [-] Custom colors```",
+    "subprodutos": [
+      {
+        "nome": "Diário",
+        "preco": 20
+      },
+      {
+        "nome": "Semanal",
+        "preco": 75
+      },
+      {
+        "nome": "Mensal",
+        "preco": 150
+      }
+    ],
+    "created_at": "2025-08-30T15:44:52.514Z",
+    "sales_count": 0,
+    "total_revenue": 0
+  },
+  "product_1756568729042": {
+    "titulo": "only esp",
+    "descricao": "```[👁‍🗨] VISUALS\n ﾠ[-] Player Visuals\n ﾠ[-] Custom Box (2D/3D/Corner)\n ﾠ[-] Health Bar\n ﾠ[-] Skeleton\n ﾠ[-] Agent Name\n ﾠ[-] Weapon Name\n ﾠ[-] Ammo ESP\n ﾠ[-] Snaplines\n ﾠ[-] Distance ```",
+    "subprodutos": [
+      {
+        "nome": "Diário",
+        "preco": 15
+      },
+      {
+        "nome": "Semanal",
+        "preco": 50
+      },
+      {
+        "nome": "Mensal",
+        "preco": 100
+      }
+    ],
+    "created_at": "2025-08-30T15:45:29.042Z",
+    "sales_count": 0,
+    "total_revenue": 0
+  },
+  "product_1756568814673": {
+    "titulo": "spoofer",
+    "descricao": "# Solução Final Contra Ban TPM \nChega de perder tempo com métodos falhos!\nSe o banimento veio por TPM, HVCI ou Secure Boot, esta é a solução que você precisa AGORA.\n\n- Uso único. Resultado imediato.\n- Rodou uma vez? Está livre.\n- Depois, pode reativar tudo normalmente:\n**Secure Boot\nTPM\nHVCI**\n:pix:  Quer voltar a jogar sem riscos? Escolha seu plano abaixo!",
+    "subprodutos": [
+      {
+        "nome": "Diário",
+        "preco": 50
+      },
+      {
+        "nome": "Lifetime",
+        "preco": 200
+      }
+    ],
+    "created_at": "2025-08-30T15:46:54.673Z",
+    "sales_count": 3,
+    "total_revenue": 150
+  },
+  "product_1756568881665": {
+    "titulo": "tpm bypass",
+    "descricao": "```[👁‍🗨] VGC BYPASS\n[-] TPM 2.0 Bypass\n[-] Secure Boot Bypass\n[-] HVCI Bypass``````[👁‍🗨] VGK BYPASS\n[-] Disable Vanguard\n[-] Emulation Vanguard```",
+    "subprodutos": [
+      {
+        "nome": "Diário",
+        "preco": 20
+      },
+      {
+        "nome": "Mensal",
+        "preco": 50
+      },
+      {
+        "nome": "Lifetime",
+        "preco": 125
+      }
+    ],
+    "created_at": "2025-08-30T15:48:01.665Z",
+    "sales_count": 0,
+    "total_revenue": 0
+  }
+}

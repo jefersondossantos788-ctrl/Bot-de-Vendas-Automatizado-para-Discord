@@ -1,0 +1,89 @@
+{
+  "totalSales": 3,
+  "totalRevenue": 51,
+  "totalCustomers": 3,
+  "dailyStats": {
+    "2025-08-30": {
+      "sales": 1,
+      "revenue": 1,
+      "customers": [
+        "1280252933069602849"
+      ]
+    },
+    "2025-08-31": {
+      "sales": 1,
+      "revenue": 25,
+      "customers": [
+        "777987475368706058"
+      ]
+    },
+    "2025-09-08": {
+      "sales": 1,
+      "revenue": 25,
+      "customers": [
+        "1123443740963512452"
+      ]
+    }
+  },
+  "productStats": {
+    "root-aim - Diário": {
+      "sales": 1,
+      "revenue": 1,
+      "lastSale": "2025-08-30T15:33:41.308Z"
+    },
+    "spoofer - Diário": {
+      "sales": 2,
+      "revenue": 50,
+      "lastSale": "2025-09-08T22:52:04.677Z"
+    }
+  },
+  "customerStats": {
+    "1280252933069602849": {
+      "username": "rootunk",
+      "totalSpent": 1,
+      "totalPurchases": 1,
+      "firstPurchase": "2025-08-30T15:33:41.308Z",
+      "lastPurchase": "2025-08-30T15:33:41.308Z",
+      "favoriteProducts": {
+        "root-aim - Diário": 1
+      }
+    },
+    "777987475368706058": {
+      "username": "lllll2156",
+      "totalSpent": 25,
+      "totalPurchases": 1,
+      "firstPurchase": "2025-08-31T14:11:56.854Z",
+      "lastPurchase": "2025-08-31T14:11:56.854Z",
+      "favoriteProducts": {
+        "spoofer - Diário": 1
+      }
+    },
+    "1123443740963512452": {
+      "username": "brenocastoldi",
+      "totalSpent": 25,
+      "totalPurchases": 1,
+      "firstPurchase": "2025-09-08T22:52:04.677Z",
+      "lastPurchase": "2025-09-08T22:52:04.677Z",
+      "favoriteProducts": {
+        "spoofer - Diário": 1
+      }
+    }
+  },
+  "paymentMethodStats": {
+    "pix": {
+      "sales": 3,
+      "revenue": 51
+    }
+  },
+  "monthlyRevenue": {
+    "2025-08": {
+      "revenue": 26,
+      "sales": 2
+    },
+    "2025-09": {
+      "revenue": 25,
+      "sales": 1
+    }
+  },
+  "lastUpdated": "2025-09-08T22:52:04.677Z"
+}

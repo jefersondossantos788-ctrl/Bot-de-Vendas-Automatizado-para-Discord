@@ -1,0 +1,62 @@
+[
+  {
+    "userId": "1280252933069602849",
+    "userTag": "rootunk",
+    "product": "root-aim",
+    "plan": "Diário",
+    "price": "R$ 1.00",
+    "paymentMethod": "pix",
+    "status": "completed",
+    "txid": "db8db5571f1a425fa6ca93d77e91721d",
+    "keyDelivered": true,
+    "id": "TXN-MEYF8VNF-EXF1H",
+    "timestamp": "2025-08-30T15:33:41.307Z"
+  },
+  {
+    "userId": "777987475368706058",
+    "userTag": "lllll2156",
+    "product": "spoofer",
+    "plan": "Diário",
+    "price": "R$ 25.00",
+    "paymentMethod": "pix",
+    "status": "completed",
+    "txid": "ede75728a6b14c6a82f91b75333787d7",
+    "keyDelivered": true,
+    "id": "TXN-MEZRRM0L-Z1KYO",
+    "timestamp": "2025-08-31T14:11:56.853Z"
+  },
+  {
+    "id": "TXN-MF1HFWUG-IUDGV",
+    "userId": "1135026594889605190",
+    "userTag": "miku261",
+    "productId": "product_1756568814673",
+    "productTitle": "spoofer",
+    "subproductName": "Lifetime",
+    "quantity": 1,
+    "originalPrice": 200,
+    "finalPrice": 100,
+    "discountApplied": false,
+    "paymentMethod": "mixed",
+    "balanceUsed": 0,
+    "pixAmount": 100,
+    "timestamp": "2025-09-01T18:58:27.208Z",
+    "keys": [
+      "H1U4P-WB9PX-C8T2K-X964E"
+    ],
+    "channelId": "1412149020549185536",
+    "pixTxid": "99c5ed380c52491f8435624d76ccc82b"
+  },
+  {
+    "userId": "1123443740963512452",
+    "userTag": "brenocastoldi",
+    "product": "spoofer",
+    "plan": "Diário",
+    "price": "R$ 25.00",
+    "paymentMethod": "pix",
+    "status": "completed",
+    "txid": "6dc1d51c1c824960806143aa13811688",
+    "keyDelivered": true,
+    "id": "TXN-MFBPVBGK-U1Z6P",
+    "timestamp": "2025-09-08T22:52:04.676Z"
+  }
+]
